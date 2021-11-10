@@ -1,34 +1,14 @@
-# Angela Yu Web Development - Intermediate Bootstrap
-# HTML/CSS & Bootstrap - Tin Dog Website
+This Website is Dog Dating Website.
+I built this website by following Angela Yu course.
 
-- [About this project](#about)
-- [Features](#features)
-- [Requirements](#requirements)
-- [Technical Information](#technical_information)
+Live Demo
 
-<a name="about"></a>
-## About
-In this code along I refactored the provided starter files using
-HTML, CSS, and Bootstrap.
+https://robinglory.github.io/tindog/
 
-<a name="features"></a>
-## Features
-- [x] HTML
-- [x] CSS
-- [x] Bootstrap
+Desktop Demo
 
-<a name="requirements"></a>
-## Requirements
-- HTML
-- CSS
-- Bootstrap
+![tinDog-Desktop-Version-Demo](https://user-images.githubusercontent.com/80534929/141168201-ffb3a2d1-e16d-458e-8714-234d15b02144.png)
 
-<a name="technical_information"></a>
-## Technical Information
+Android Demo
 
-To run the site on your local machine
-
-1. Download or clone the repository onto your machine.
-2. Extract the .zip file.
-3. Open .html file in your browser.
-5. Alternatively you can click on the following [Site Link](https://jsoto3000.github.io/js-TinDog-Start-master/ "Site Link") to view.
+![tindog android version](https://user-images.githubusercontent.com/80534929/141168285-ed9fc2c6-023d-4c54-ac83-d6c943162fe6.jpg)
